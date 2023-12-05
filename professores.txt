@@ -1,0 +1,51 @@
+Francisco de Assis
+123.456.789-01
+03/03/1993
+Masculino
+2021002
+Rua Qualquer
+391
+Bairro Qualquer
+Cidade Qualquer
+321452352
+2000.99
+Instituto Metropole Digital
+360
+22/02/2023
+IV
+Especializacao
+ITP
+Luiz Eduardo
+987.654.321-02
+02/07/1997
+Masculino
+2021003
+Rua 1
+174
+Bairro 1
+Natal/RN
+32131287
+3500.49
+Dep. de Matematica
+240
+22/02/2020
+II
+Mestrado
+Matematica Financeira
+Maria Vitoria
+000.000.000-04
+22/04/1994
+Feminino
+2021004
+Rua 2
+283
+Bairro 2
+Joao Pessoa
+69321543
+2500.52
+Dep. de Fisica
+240
+22/09/2001
+VI
+Doutorado
+Fisica Quantica
